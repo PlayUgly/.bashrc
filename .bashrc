@@ -11,3 +11,5 @@ shopt -s autocd
 alias ls='ls --color=auto'
 #PS1='[\u@\h \W]\$ '
 PS1='\w '
+
+alias clean='rm -r build/*'
